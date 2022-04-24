@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anikammadu Michael
 - 👀 I’m interested in Cloud Technologies | Web Development
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Golang for backend and React for front End
 - 💞️ I’m looking to collaborate on Web Projects and Cloud 
 - 📫 How to reach me dil.anikamadu@gmail.com
 
